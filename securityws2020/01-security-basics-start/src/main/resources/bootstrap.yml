@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: myapp
+  cloud:
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      token: s.aFjmw6cLSULWve0Fh0AQaJnS
